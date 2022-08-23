@@ -21,3 +21,8 @@ working on web design projects based on ***user stories*** and get all of the te
 -*[CodePen Link](https://codepen.io/saraatq/pen/qBoYyNy)*-
 
 ![Cafe Menu](test_passed_screenshots/cafe-menu.PNG)
+
+### [Colored Markers](colored-markers)
+-*[CodePen Link](https://codepen.io/saraatq/pen/dymLOxg)*-
+
+![Colored Markers](test_passed_screenshots/colored-markers.PNG)
