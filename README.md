@@ -26,3 +26,8 @@ working on web design projects based on ***user stories*** and get all of the te
 -*[CodePen Link](https://codepen.io/saraatq/pen/dymLOxg)*-
 
 ![Colored Markers](test_passed_screenshots/colored-markers.PNG)
+
+### [Registration Form](registration-form)
+-*[CodePen Link](https://codepen.io/saraatq/pen/poVzYPm)*-
+
+![Registration Form](test_passed_screenshots/registration-form.PNG)
