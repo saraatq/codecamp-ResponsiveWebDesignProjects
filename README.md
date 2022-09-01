@@ -31,3 +31,8 @@ working on web design projects based on ***user stories*** and get all of the te
 -*[CodePen Link](https://codepen.io/saraatq/pen/poVzYPm)*-
 
 ![Registration Form](test_passed_screenshots/registration-form.PNG)
+
+### [Rothko Painting](rothko-painting)
+-*[CodePen Link](https://codepen.io/saraatq/pen/GRdKaGN)*-
+
+![Rothko Painting](test_passed_screenshots/rothko-painting.PNG)
