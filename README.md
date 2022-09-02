@@ -41,3 +41,8 @@ working on web design projects based on ***user stories*** and get all of the te
 -*[CodePen Link](https://codepen.io/saraatq/pen/mdLbNbG)*-
 
 ![Photo Gallery](test_passed_screenshots/photo-gallery.PNG)
+
+### [Nutrition Facts](nutrition-facts)
+-*[CodePen Link](https://codepen.io/saraatq/pen/OJZJOBw)*-
+
+![Nutrition Facts](test_passed_screenshots/nutrition-facts.PNG)
