@@ -51,3 +51,8 @@ working on web design projects based on ***user stories*** and get all of the te
 -*[CodePen Link](https://codepen.io/saraatq/pen/mdLVxVY)*-
 
 ![Accessibility Quiz Practice](test_passed_screenshots/accessibility-quiz-practice.png)
+
+### [Balance Sheet](balance-sheet)
+-*[CodePen Link](https://codepen.io/saraatq/pen/NWMxJbx)*-
+
+![Balance Sheet](test_passed_screenshots/balance-sheet.png)
