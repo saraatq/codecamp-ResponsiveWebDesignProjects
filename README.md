@@ -56,3 +56,8 @@ working on web design projects based on ***user stories*** and get all of the te
 -*[CodePen Link](https://codepen.io/saraatq/pen/NWMxJbx)*-
 
 ![Balance Sheet](test_passed_screenshots/balance-sheet.png)
+
+### [Picasso Painting](picasso-painting)
+-*[CodePen Link](https://codepen.io/saraatq/pen/xxjVWBy)*-
+
+![Picasso Painting](test_passed_screenshots/picasso-painting.png)
