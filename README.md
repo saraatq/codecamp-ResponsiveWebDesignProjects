@@ -81,3 +81,8 @@ working on web design projects based on ***user stories*** and get all of the te
 ![City Skyline Morning](test_passed_screenshots/city-skyline-morning.png)
 ***@media <= 1000***
 ![City Skyline Night](test_passed_screenshots/city-skyline-night.png)
+
+### [Magazine](magazine)
+-*[CodePen Link](https://codepen.io/saraatq/pen/YzLQBpv)*-
+
+![Magazine](test_passed_screenshots/magazine.png)
